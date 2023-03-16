@@ -18,5 +18,5 @@ In this activity, We will create a form GUI for entering event details. Once the
 
 # Events List Activity
 We will fetch all the event data from the Spring Boot Server and show it in an Android RecyclerView. 
-And We will put a splash screen for a few seconds.
+And as soon as the app starts, we will put a splash screen for a few seconds.
 
