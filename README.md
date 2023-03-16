@@ -21,8 +21,6 @@ We will fetch all the event data from the Spring Boot Server and show it in an A
 And as soon as the app starts, we will put a splash screen for a few seconds.
 
 
-![Screenshot (124)](https://user-images.githubusercontent.com/102401268/225727470-bc228138-d50a-464b-a8c8-57f7816ed815.png)
-
-![clgform](https://user-images.githubusercontent.com/102401268/225727347-012babcf-04c1-4df3-b7d5-718e863223ab.JPG)
+![Screenshot (124)](https://user-images.githubusercontent.com/102401268/225727470-bc228138-d50a-464b-a8c8-57f7816ed815.png)    ![clgform](https://user-images.githubusercontent.com/102401268/225727347-012babcf-04c1-4df3-b7d5-718e863223ab.JPG)
 
 ![clgimg](https://user-images.githubusercontent.com/102401268/225727368-8cea3fa6-99e9-4fbf-b8ad-03d207ec3042.JPG)
