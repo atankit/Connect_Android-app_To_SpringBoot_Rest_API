@@ -17,6 +17,6 @@ In this Application, We will create a new Android application that will work as 
 In this activity, We will create a form GUI for entering event details. Once the form is filled and the save button is pressed, the object will be sent to the server via POST request. The server will then accept the POST request and saves the event into the MySQL database.
 
 # Events List Activity
-We will fetch all the event data from the Spring Boot Server and show it in an Android RecyclerView. 
+We will fetch all the event data from the Spring Boot Server and show it in an Android RecyclerView. For fetching the data, we will make use of the GET request. 
 And as soon as the app starts, we will put a splash screen for a few seconds.
 
